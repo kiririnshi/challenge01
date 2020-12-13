@@ -1,10 +1,10 @@
-package chal.demo01;
+package group.chl01;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo01ApplicationTests {
+class Chl01ApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package chal.demo01;
+package group.chl01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Demo01Application {
+public class Chl01Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Demo01Application.class, args);
+		SpringApplication.run(Chl01Application.class, args);
 	}
 
 }

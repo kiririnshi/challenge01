@@ -8,11 +8,11 @@
 		<version>2.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>chal</groupId>
-	<artifactId>demo01</artifactId>
+	<groupId>group</groupId>
+	<artifactId>chl01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo01</name>
-	<description>Demo project for Spring Boot</description>
+	<name>chl01</name>
+	<description>Proyecto para Agile</description>
 
 	<properties>
 		<java.version>11</java.version>
